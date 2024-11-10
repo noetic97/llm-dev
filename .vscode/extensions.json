@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-vscode-remote.remote-wsl",
+        "ms-vscode.cpptools",
+        "github.copilot",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "ms-python.isort"
+    ]
+}

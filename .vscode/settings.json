@@ -1,0 +1,14 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on",
+    "python.defaultInterpreterPath": "/home/noetic97/miniconda/envs/llm-dev/bin/python",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [88],
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewLine": true,
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+}
